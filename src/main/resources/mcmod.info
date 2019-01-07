@@ -1,0 +1,16 @@
+[
+{
+  "modid": "watermark",
+  "name": "Watermark",
+  "description": "Adds a custom watermark to the players screen",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gaz492"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
